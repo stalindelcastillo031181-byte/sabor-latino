@@ -1,2 +1,3 @@
-# sabor-latino
-Landing page mobile-first para restaurante colombiano en Miami con sistema de pedidos directos por WhatsApp
+# SABOR LATINO
+
+Mobile-first direct-ordering landing. Replace marked placeholders with approved restaurant data before publishing.
